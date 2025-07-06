@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
 # ARIA - Advanced Responsive Intelligent Assistant
 
 ## Complete Product Documentation
@@ -116,39 +114,6 @@ ARIA's competitive advantages over existing voice assistants are significant:
 - Superior conversational abilities with persistent memory
 
 
-## Pricing Strategy \& Go-to-Market
-
-### Freemium Model with Four Tiers:
-
-**ARIA Basic (Free):**
-
-- Basic voice commands and smart home control
-- Limited spam call protection (100 calls/month)
-- 7-day conversation memory
-- 5 core MCP integrations
-
-**ARIA Premium (\$19.99/month):**
-
-- Advanced GenAI conversation capabilities
-- Unlimited spam call protection with AI screening
-- 90-day extended memory plus selective long-term retention
-- Full MCP marketplace access
-- Up to 5 family members
-
-**ARIA Family (\$39.99/month):**
-
-- All Premium features plus unlimited family members
-- Advanced parental controls and multi-home support
-- Custom voice training and dedicated family dashboard
-- 24/7 premium support
-
-**ARIA Enterprise (Custom Pricing):**
-
-- On-premises deployment options
-- Custom AI model training and development
-- SLA guarantees and dedicated account management
-
-
 ### Launch Strategy
 
 The go-to-market approach follows a three-phase strategy over 18 months:
@@ -159,38 +124,6 @@ The go-to-market approach follows a three-phase strategy over 18 months:
 
 Key partnerships target hardware manufacturers (Samsung SmartThings, Philips Hue), platform integrators (Home Assistant, Hubitat), and service providers (telecom companies, security firms).
 
-## Development Roadmap \& Investment
-
-![ARIA Development Roadmap: 24-Month Timeline with Budget and Team Scaling](https://pplx-res.cloudinary.com/image/upload/v1751351014/pplx_code_interpreter/acc58017_bpsbmv.jpg)
-
-ARIA Development Roadmap: 24-Month Timeline with Budget and Team Scaling
-
-The development requires **\$7.5M total investment** over 18 months:
-
-- **MVP Development (Months 1-8):** \$2.5M, 25-person team
-- **Beta Release (Months 9-14):** \$1.8M, 35-person team
-- **Production Launch (Months 15-18):** \$3.2M, 50-person team
-
-
-### Success Metrics \& Financial Projections:
-
-**User Adoption Targets:**
-
-- Month 12: 10,000 active users
-- Month 18: 50,000 active users
-- Month 24: 200,000 active users
-
-**Revenue Projections:**
-
-- Year 1: \$2.4M ARR
-- Year 2: \$12M ARR
-- Year 3: \$35M ARR
-
-**Unit Economics:**
-
-- Customer Acquisition Cost: <\$50
-- Lifetime Value: >\$500
-- Monthly Churn: <5%
 
 
 ## Risk Assessment \& Mitigation

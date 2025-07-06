@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
 ## Top 20 Most Used Consumer Apps in India (July 2025)
 
 India’s app ecosystem is dominated by communication, social media, payments, shopping, and entertainment platforms. The following list reflects the most heavily used consumer apps based on daily active usage and popularity in mid-2025.

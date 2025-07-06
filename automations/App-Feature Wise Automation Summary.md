@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
 # Automation Capabilities Summary for Custom AI Assistant
 
 Based on your analysis of top consumer apps in India, here's a comprehensive breakdown of what automation is possible with your custom AI assistant, organized by methods and specific app capabilities.

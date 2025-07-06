@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
 # Automation Capability Categorization for Mobile Apps
 
 Based on the top 20 consumer apps in India, I'll categorize them by their automation capabilities and integration strategies. This analysis focuses on how ARIA or similar AI assistants could interact with these apps through various automation mechanisms.
